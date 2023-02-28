@@ -75,7 +75,7 @@ public class CreateTableWithForeignKey {
      *       |4      |'Brandon'             |'Smith'                 |
      *       |5      |'Adam'                |'Jones'                 |
      *
-     */
+     */ 
     public void problem1(){
         /**
          * Assignment: create a "post" table that has the following columns:
